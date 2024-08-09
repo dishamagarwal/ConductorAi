@@ -14,5 +14,5 @@ spacy:
 pip install spacy
 python -m spacy download en_core_web_sm
 
-## To Run In Local:
+## running In Local:
 python3 Main.py
