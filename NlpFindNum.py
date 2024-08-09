@@ -1,4 +1,4 @@
-import pdfplumber, re, spacy
+import pdfplumber, spacy
 
 text = ""
 nlp = spacy.load("en_core_web_sm")
